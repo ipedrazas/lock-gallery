@@ -1,7 +1,7 @@
 # Lock Gallery
 Little utility to randomize lock screen for i3
 
-I like to have different lock screens, so I wrote a little util that I run everytime I lock my screen. I use i3, an to lock the screen I do:
+I like to have different lock screens, so I wrote a little util that I run every time I lock my screen. I use i3, an to lock the screen I do:
 
     # extract of my ~/.i3/config
     bindsym $mod+l exec /home/ivan/dotfiles/bin/lockme.sh
